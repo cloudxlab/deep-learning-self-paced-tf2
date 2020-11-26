@@ -1,0 +1,7 @@
+images/
+.ipynb_checkpoints/
+*.pkl
+*.dot
+*.h5
+my_logs/
+*.ckpt.*
